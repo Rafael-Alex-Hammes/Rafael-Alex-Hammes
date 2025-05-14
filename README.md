@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá! Eu sou o João 👋
 
 Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
