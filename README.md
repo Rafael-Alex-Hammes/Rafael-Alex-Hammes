@@ -1,4 +1,4 @@
-# Olá! Eu sou o João 👋
+# Bem vindo ao meu Git! :computer:
 
 Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
 
