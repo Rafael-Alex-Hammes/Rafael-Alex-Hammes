@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Olá! Eu sou o João 👋
+
+Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
+
+- 💼 Trabalho atualmente na Spincare
+- 📊 Experiência com JasperReports
+- 🔧 Estudando DevOps e aprofundando em back-end
+
+💬 Vamos conversar! [LinkedIn](https://linkedin.com/in/seu-usuario)
+
 <!--
 **Rafael-Alex-Hammes/Rafael-Alex-Hammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
