@@ -8,9 +8,7 @@ Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alex-Hammes&layout=compact)
 
-## [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rafael-Alex-Hammes)
-## [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alex-hammes/)
-## [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rafael-Alex-Hammes)
-## [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rafael-Alex-Hammes)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rafael-Alex-Hammes)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alex-hammes/)
 
 
