@@ -6,19 +6,11 @@ Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
 - 📊 Experiência com JasperReports
 - 🔧 Estudando DevOps e aprofundando em back-end
 
+- ## 📊 Estatísticas do GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Alex-Hammes&show_icons=true)
+
+## 🔥 Atividade recente:
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafael-Alex-Hammes)
+
+
 💬 Vamos conversar! [LinkedIn](https://linkedin.com/in/seu-usuario)
-
-<!--
-**Rafael-Alex-Hammes/Rafael-Alex-Hammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
