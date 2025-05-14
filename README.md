@@ -8,4 +8,5 @@ Sou desenvolvedor full stack com foco em Angular, Java Spring Boot e PostgreSQL.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Alex-Hammes&layout=compact)
 
-💬 Vamos conversar! [LinkedIn](https://linkedin.com/in/seu-usuario)
+## 💬 Vamos conversar! [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rafael-Alex-Hammes)
+
